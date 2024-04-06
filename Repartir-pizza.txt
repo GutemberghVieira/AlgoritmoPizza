@@ -1,0 +1,75 @@
+Objetivo "Repartir uma pizza de dez reais, em partes iguais  para 6 pessoas"
+
+1.passo 
+pegue a pizza com entregador
+
+2.passo 
+pague o entregador
+
+2.1 regra 
+se o valor for maior que dez mostrar a mensagem Você deu tanto de valor recebe tanto de troco  
+
+2.2 regra 
+se o valor for igual a 10 mostrar a mensagem Você deu 10R$ não recebe troco
+
+2.3 regra
+O valor do dinheiro tem que ser maior ou igual a dez se for igual ou maior retornar a mensagem "a pizza foi comprada"
+
+2.4 regra 
+Se o valor do dinheiro for menor retornar a mensagem "você não tem dinheiro, o entregador irá embora" 
+
+3.passo 
+leve a pizza para dentro 
+
+4.passo 
+verifique a se porta está aberta 
+
+4.1 regra 
+se sim retorna a mensagem "passe"
+
+4.2 regra 
+se não retorne a mensagem "Porta Fechada, os seus amigos não vão comer a pizza"
+
+4.3 regra 
+retornar somente "sim" ou "não"
+
+4.4 regra 
+se a resposta for diferente de "sim ou não" retorne palavra inválida, só pode responder sim ou não programa terminado
+
+4.4 regra 
+se sim retorne "Porta Aberta passe para dentro"
+
+4.5 regra 
+se não retorne "Porta Fechada, os seus amigos não vão comer a pizza" 
+
+5.passo 
+retire-a da caixa
+
+6.passo 
+retire-a da embalagem  
+
+7.passo 
+de 0 á 3 pergunte ao seus amigos quantas fatias de pizzas eles querem 
+
+7.1 regra 
+o máximo de fatias não pode passar 3 
+
+7.2 regra 
+se for maior retorne "o máximo são 3 pedaços de pizzas"
+
+8.passo 
+guarde o número de fatias 
+
+9.passo 
+se for menor mostrar na tela em quantas partes ele deve partir a pizza para receberem as fatias 
+
+9.1 se for uma fatia 
+retorna "Você terá que repartir em 6 partes iguais para cada um" 
+
+9.2 se forem duas fatias 
+retorna "Você terá que repartir em 12 partes iguais para cada um" 
+
+9.3 se forem três fatias 
+retorna "Você terá que repartir em 18 partes iguais para cada um" 
+
+o programa está terminado
